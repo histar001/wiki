@@ -1,7 +1,14 @@
+<<<<<<< Updated upstream
 created: 20220223183934050
 creator: TidGiUser
 list: Index
 modified: 20220223183934050
+=======
+created: 20220223174350294
+creator: TidGiUser
+list: $:/plugins/kookma/favorites/manager
+modified: 20220223174350294
+>>>>>>> Stashed changes
 modifier: TidGiUser
 title: $:/favorites/favlist
 type: text/vnd.tiddlywiki
